@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1 My Name Is Hemato"
+title: "Prologue The Girl In Wooden Shoes That Kissed Her Brother Goodbye"
 author: "S.R. Weaver"
 tags: archive motioncomic
 ---
