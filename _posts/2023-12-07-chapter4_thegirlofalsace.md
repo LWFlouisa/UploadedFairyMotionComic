@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2 The Girl Of Alsace"
+title: "Chapter 3 The Girl Of Alsace"
 author: "S.R. Weaver"
 tags: archive motioncomic
 ---
