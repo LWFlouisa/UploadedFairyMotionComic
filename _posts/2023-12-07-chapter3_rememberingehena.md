@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2 Remembering Ehena"
+title: "Uploaded Fairy Chapter 2"
 author: "S.R. Weaver"
 tags: archive motioncomic
 ---
