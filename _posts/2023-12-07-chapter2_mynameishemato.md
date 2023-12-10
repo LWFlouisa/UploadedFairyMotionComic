@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1 My Name Is Hemato"
+title: "Uploaded Fairy Chapter 1"
 author: "S.R. Weaver"
 tags: archive motioncomic
 ---
