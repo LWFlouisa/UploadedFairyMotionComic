@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3 The Girl Of Alsace"
+title: "Uploaded Fairy Chapter 3"
 author: "S.R. Weaver"
 tags: archive motioncomic
 ---
