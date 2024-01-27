@@ -25,3 +25,10 @@ Disallow: /assets
 Disallow: /drafts
 Disallow: /images
 Disallow: /
+
+User-agent: Google-Extended
+Disallow: /Chapters
+Disallow: /assets
+Disallow: /drafts
+Disallow: /images
+Disallow: /
