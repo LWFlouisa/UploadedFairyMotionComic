@@ -1,2 +1,27 @@
 User-agent: GPTBot
+Disallow: /Chapters
+Disallow: /assets
+Disallow: /drafts
+Disallow: /images
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /Chapters
+Disallow: /assets
+Disallow: /drafts
+Disallow: /images
+Disallow: /
+
+User-agent: CCBot
+Disallow: /Chapters
+Disallow: /assets
+Disallow: /drafts
+Disallow: /images
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /Chapters
+Disallow: /assets
+Disallow: /drafts
+Disallow: /images
 Disallow: /
